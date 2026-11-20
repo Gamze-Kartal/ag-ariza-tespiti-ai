@@ -1,4 +1,4 @@
 Model,CV F1 (ort.),Test Accuracy,Test F1 (macro)
-Logistic Regression (baseline),0.963,0.968,0.968
-Decision Tree,0.966,0.962,0.962
-Random Forest,0.971,0.968,0.968
+Logistic Regression (baseline),1.0,1.0,1.0
+Decision Tree,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0
